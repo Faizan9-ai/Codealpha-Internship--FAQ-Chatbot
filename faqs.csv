@@ -1,0 +1,10 @@
+
+question,answer
+"What is Python?","Python is a popular programming language used for web development, AI, data science, and automation."
+"What is AI?","AI means Artificial Intelligence. It allows machines to think and make decisions like humans."
+"What is Machine Learning?","Machine Learning is a part of AI where computers learn from data."
+"What is NLP?","NLP means Natural Language Processing. It helps computers understand human language."
+"What is Streamlit?","Streamlit is a Python library used to build web apps easily."
+"How can I learn AI?","Start with Python, NumPy, Pandas, Machine Learning, Deep Learning, and NLP."
+"What is cosine similarity?","Cosine similarity is a technique used to measure how similar two text documents are."
+"What is TF-IDF?","TF-IDF is a method used to convert text into numerical values for machine learning."
